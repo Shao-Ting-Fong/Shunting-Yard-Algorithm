@@ -1,6 +1,13 @@
 ## Application of Stack and Queue Data Structure: Shunting Yard Algorithm
 
-[comment]: <> (###Question definition)
+###Question definition
+Please implement a function parsing mathematical expressions specified in infix notation.
+
+Sample input 1 : "(2 + 3) * 2"  
+Sample Output 1: 10
+
+Sample input 2 : "-4*-2/-(1-3)^2"  
+Sample output 2: -2
 
 [comment]: <> (請用 Python 實作數學運算字 parser ，並計算其結果。例： a = "&#40;2+3&#41; * 2"，要得到 10。  )
 
